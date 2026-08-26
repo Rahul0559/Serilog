@@ -1,0 +1,6 @@
+@ExpressionFilterApi_HostAddress = http://localhost:5121
+
+GET {{ExpressionFilterApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
